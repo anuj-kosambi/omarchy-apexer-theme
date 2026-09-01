@@ -1,0 +1,32 @@
+# Apexer theme for Omarchy
+mode = "dark"
+
+accent = "#7b9d53"
+selection = "#1d1d1d"
+muted = "#726a6b"
+
+background = "#040404"
+dark_background = "#030303"
+darker_background = "#020202"
+lighter_background = "#1d1d1d"
+
+foreground = "#e1e7e5"
+dark_foreground = "#a9adac"
+light_foreground = "#e6ebe9"
+bright_foreground = "#e9edec"
+
+red = "#aa6769"
+yellow = "#fcc8ac"
+orange = "#b77e80"
+green = "#d5b695"
+cyan = "#f0ecac"
+blue = "#7b9d53"
+magenta = "#d16078"
+brown = "#6e4c4d"
+
+bright_red = "#c06c6e"
+bright_yellow = "#ffbc9c"
+bright_green = "#ebc399"
+bright_cyan = "#fffcb4"
+bright_blue = "#89b357"
+bright_magenta = "#eb5674"
