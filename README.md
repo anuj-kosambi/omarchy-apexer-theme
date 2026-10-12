@@ -3,7 +3,7 @@
 A near-black theme for [Omarchy](https://omarchy.org/) — a muted olive accent
 over warm sand and clay highlights, tuned for long sessions on a dark screen.
 
-![Apexer wallpaper](backgrounds/apexer.png)
+![Apexer desktop](preview.png)
 
 ## Palette
 
@@ -49,7 +49,7 @@ Icons are set to the `Yaru-red` variant via [`icons.theme`](icons.theme).
 
 ## Wallpapers
 
-- **apexer.png** — the theme's default background
+- **apexer.webp** — the theme's default background
 
 Add more backgrounds to `~/.config/omarchy/backgrounds/apexer/` or to the
 theme's own `backgrounds/` directory, then cycle through them:
